@@ -1,0 +1,3 @@
+buzzerControl.c:12:6:BuzzerUpdate	8	static
+buzzerControl.c:116:6:BuzzerControl	16	static
+buzzerControl.c:128:6:BuzzerInit	16	static

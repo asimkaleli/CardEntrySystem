@@ -1,0 +1,2 @@
+flash.c:22:6:SaveDataToFlash	88	static,ignoring_inline_asm
+flash.c:52:6:ReadDataFromFlash	8	static

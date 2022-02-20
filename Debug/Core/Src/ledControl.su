@@ -1,0 +1,5 @@
+ledControl.c:15:6:LedUpdate	8	static
+ledControl.c:123:6:LedONorOFF	16	static
+ledControl.c:152:6:LedControl	16	static
+ledControl.c:169:6:LedInit	16	static
+ledControl.c:180:6:LedResetActiveState	4	static
